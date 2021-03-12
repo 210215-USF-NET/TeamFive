@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\Library\\Library.csproj": {}
+    "C:\\Revature\\Hackthon\\TeamFive\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\Library\\Library.csproj": {
+    "C:\\Revature\\Hackthon\\TeamFive\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Revature\\Hackthon\\TeamFive\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\Library\\obj\\",
+        "projectPath": "C:\\Revature\\Hackthon\\TeamFive\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\16463\\.nuget\\packages\\",
+        "outputPath": "C:\\Revature\\Hackthon\\TeamFive\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\16463\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

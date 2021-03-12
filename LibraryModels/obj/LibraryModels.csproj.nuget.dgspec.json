@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryModels\\LibraryModels.csproj": {}
+    "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryModels\\LibraryModels.csproj": {
+    "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryModels\\LibraryModels.csproj",
+        "projectUniqueName": "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj",
         "projectName": "LibraryModels",
-        "projectPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryModels\\LibraryModels.csproj",
-        "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryModels\\obj\\",
+        "projectPath": "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj",
+        "packagesPath": "C:\\Users\\16463\\.nuget\\packages\\",
+        "outputPath": "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\16463\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

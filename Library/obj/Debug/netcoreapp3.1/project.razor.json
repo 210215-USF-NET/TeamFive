@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Library.csproj",
+  "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Library.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,38 +14392,38 @@
   "RootNamespace": "Library",
   "Documents": [
     {
-      "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Revature\\Hackthon1\\TeamFive\\Library\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
