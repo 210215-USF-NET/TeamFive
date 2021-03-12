@@ -9,7 +9,13 @@ namespace Library.Models
     {
         public Book cast2Book(BookCRVM book2BCasted)
         {
-            throw new NotImplementedException();
+            return new Book
+            {
+                BookName = book2BCasted.BookName,
+                BookID = book2BCasted.BookID,
+                Author = book2BCasted.Author,
+                IsAvailable = book2BCasted.IsAvailable
+            };
         }
 
         public Book cast2Book(BookEditVM book2bCasted)
@@ -29,7 +35,13 @@ namespace Library.Models
 
         public BookIndexVM cast2BookIndexVM(Book book2BCasted)
         {
-            throw new NotImplementedException();
+            return new BookIndexVM
+            {
+                BookName = book2BCasted.BookName,
+                BookID = book2BCasted.BookID,
+                Author = book2BCasted.Author,
+                IsAvailable = book2BCasted.IsAvailable
+            };
         }
     }
 }
