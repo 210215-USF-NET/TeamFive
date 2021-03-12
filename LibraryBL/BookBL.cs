@@ -9,7 +9,7 @@ using LibraryModels;
 
 namespace LibraryBL
 {
-    class BookBL : IBookBL
+    public class BookBL : IBookBL
     {
         private IBookRepository _repo;
 

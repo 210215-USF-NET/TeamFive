@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace LibraryDL
 {
-    class BookRepoDB : IBookRepository
+    public class BookRepoDB : IBookRepository
     {
         private readonly LibraryDBContext _context;
-        public BookRepoDB(LibraryDBContext _context)
+        public BookRepoDB(LibraryDBContext context)
         {
             _context = context;
         }
@@ -31,7 +31,7 @@ namespace LibraryDL
         public Book GetBookByTitle(string title)
         {
             return _context.Books
-                .FirstOrDefault(x => x.BookTitle == title);
+                .FirstOrDefault(x => x.BookName == title);
         }
 
         public List<Book> GetBooks()
@@ -54,5 +54,6 @@ namespace LibraryDL
             _context.ChangeTracker.Clear();
             return book2BUpdated;
         }
+
     }
 }
