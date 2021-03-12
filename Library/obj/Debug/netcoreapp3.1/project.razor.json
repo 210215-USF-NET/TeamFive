@@ -14392,6 +14392,11 @@
   "RootNamespace": "Library",
   "Documents": [
     {
+      "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\AddBookView.cshtml",
+      "TargetPath": "Views\\AddBookView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Revature\\Hackthon\\TeamFive\\Library\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
