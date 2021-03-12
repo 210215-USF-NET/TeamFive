@@ -15,6 +15,7 @@ namespace StoreDL
         public DbSet<Author> Author { get; set; }
         public DbSet<Book> Book { get; set; }
         public DbSet<Customer> Customer { get; set; }
+        public DbSet<Checkout> Checkout { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Customer>()

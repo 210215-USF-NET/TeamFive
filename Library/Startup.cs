@@ -8,6 +8,11 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using LibraryDL;
+using StoreDL;
+using Microsoft.EntityFrameworkCore;
+using Library.Models;
+using LibraryBL;
 
 namespace Library
 {
@@ -24,6 +29,10 @@ namespace Library
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<LibraryDBContext>(options => options.UseNpgsql(Configuration.GetConnectionString("LibraryDB")));
+            services.AddScoped<IBookBL, BookBL>();
+            services.AddScoped<IBookRepository, BookRepoDB>();
+            services.AddScoped<IMapper, Mapper>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

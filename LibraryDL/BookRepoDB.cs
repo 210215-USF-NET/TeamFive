@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace LibraryDL
 {
-    class BookRepoDB : IBookRepository
+    public class BookRepoDB : IBookRepository
     {
         private readonly LibraryDBContext _context;
         public BookRepoDB(LibraryDBContext context)
