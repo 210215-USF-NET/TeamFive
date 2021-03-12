@@ -215,19 +215,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Steve\\.nuget\\packages\\": {}
+    "C:\\Users\\david\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryBL\\LibraryBL.csproj",
+      "projectUniqueName": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryBL\\LibraryBL.csproj",
       "projectName": "LibraryBL",
-      "projectPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryBL\\LibraryBL.csproj",
-      "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryBL\\obj\\",
+      "projectPath": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryBL\\LibraryBL.csproj",
+      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryBL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -241,11 +241,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryDL\\LibraryDL.csproj": {
-              "projectPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryDL\\LibraryDL.csproj"
+            "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryDL\\LibraryDL.csproj": {
+              "projectPath": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryDL\\LibraryDL.csproj"
             },
-            "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryModels\\LibraryModels.csproj": {
-              "projectPath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryModels\\LibraryModels.csproj"
+            "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryModels\\LibraryModels.csproj": {
+              "projectPath": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryModels\\LibraryModels.csproj"
             }
           }
         }
@@ -277,7 +277,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

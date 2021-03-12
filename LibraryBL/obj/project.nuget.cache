@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "E8RjtScwaaRqchAnpqMr/rwYz/18fLkjdL8QnluULlM+u6x8ZLcMWbNKn8nGXDGU9gNaaQdoRAcIkkFrN5L7qw==",
+  "dgSpecHash": "UzDSSjGu4XC71VRloi/8SnpbowkeLouvN3G/JuRS5z7AWRt2tooyl6bH6z8AdOeLGNHOowi118WWqmNS4DflMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steve\\Revature\\Team5Repo\\TeamFive\\LibraryBL\\LibraryBL.csproj",
+  "projectFilePath": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryBL\\LibraryBL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Steve\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Steve\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
