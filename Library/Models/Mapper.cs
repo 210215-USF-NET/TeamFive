@@ -23,9 +23,15 @@ namespace Library.Models
             throw new NotImplementedException();
         }
 
-        public BookCRVM cast2BookCRVM(Book Book)
+        public BookCRVM cast2BookCRVM(Book book)
         {
-            throw new NotImplementedException();
+            return new BookCRVM
+            {
+                BookName = book.BookName,
+                BookID = book.BookID,
+                Author = book.Author,
+                IsAvailable = book.IsAvailable
+            };
         }
 
         public BookEditVM cast2BookEditVM(Book Book)
