@@ -1,6 +1,8 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/aspnetcore,csharp,visualstudio,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=aspnetcore,csharp,visualstudio,visualstudiocode
+appsettings.json
+appsettings.Development.json
+PasswordHash.cs
+# Created by https://www.toptal.com/developers/gitignore/api/csharp,aspnetcore,visualstudio,visualstudiocode,dotnetcore
+# Edit at https://www.toptal.com/developers/gitignore?templates=csharp,aspnetcore,visualstudio,visualstudiocode,dotnetcore
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -482,6 +484,15 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/tasks.json
@@ -651,4 +662,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 
-# End of https://www.toptal.com/developers/gitignore/api/aspnetcore,csharp,visualstudio,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/csharp,aspnetcore,visualstudio,visualstudiocode,dotnetcore
