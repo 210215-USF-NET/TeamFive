@@ -1,0 +1,9 @@
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\bin\Debug\netstandard2.0\LibraryModels.deps.json
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\bin\Debug\netstandard2.0\LibraryModels.dll
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\bin\Debug\netstandard2.0\LibraryModels.pdb
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\obj\Debug\netstandard2.0\LibraryModels.csprojAssemblyReference.cache
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\obj\Debug\netstandard2.0\LibraryModels.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\obj\Debug\netstandard2.0\LibraryModels.AssemblyInfo.cs
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\obj\Debug\netstandard2.0\LibraryModels.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\obj\Debug\netstandard2.0\LibraryModels.dll
+C:\Users\david\Documents\Code\TeamFive\LibraryModels\obj\Debug\netstandard2.0\LibraryModels.pdb

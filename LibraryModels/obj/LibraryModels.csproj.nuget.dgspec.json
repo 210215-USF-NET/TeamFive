@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj": {}
+    "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryModels\\LibraryModels.csproj": {}
   },
   "projects": {
-    "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj": {
+    "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryModels\\LibraryModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryModels\\LibraryModels.csproj",
         "projectName": "LibraryModels",
-        "projectPath": "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\LibraryModels.csproj",
-        "packagesPath": "C:\\Users\\16463\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\Hackthon\\TeamFive\\LibraryModels\\obj\\",
+        "projectPath": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryModels\\LibraryModels.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Documents\\Code\\TeamFive\\LibraryModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\16463\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
